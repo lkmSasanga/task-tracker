@@ -32,7 +32,7 @@ export default {
         id: 2,
         text: 'Person 2 Appointment',
         day: 'March 1st at 2.30pm',
-        reminder: true
+        reminder: false
       },
       {
         id: 3,
